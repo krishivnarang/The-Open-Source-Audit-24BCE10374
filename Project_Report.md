@@ -108,7 +108,7 @@ It became super obvious that the community and the corporate wardens wanted comp
 # Software: Git
 
 # --- Variables ---
-STUDENT_NAME="Aishwary Jaiswal" 
+STUDENT_NAME="Krishiv Narang" 
 SOFTWARE_CHOICE="Git" 
 
 # --- System info ---
