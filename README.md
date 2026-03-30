@@ -64,15 +64,15 @@ chmod +x scripts/*.sh
 The files and directories for this project are organized as follows:
 
 ```text
-oss-audit-24BSA10135/
+The-Open-Source-Audit-24BCE10374/
 ├── README.md                      ← Project documentation (this file)
 ├── PROJECT_REPORT.md              ← Final project report (full audit)
 └── scripts/
-    ├── script1_system_identity.sh         ← System Identity Report
-    ├── script2_package_inspector.sh       ← FOSS Package Inspector
-    ├── script3_disk_auditor.sh            ← Disk and Permission Auditor
-    ├── script4_log_analyzer.sh            ← Log File Analyzer
-    └── script5_manifesto_generator.sh     ← Open Source Manifesto Generator
+    ├── script1_systm_idntty.sh         ← System Identity Report
+    ├── script2_pkage_inspector.sh       ← FOSS Package Inspector
+    ├── script3_dsk_auditor.sh            ← Disk and Permission Auditor
+    ├── script4_log_anlyzr.sh            ← Log File Analyzer
+    └── script5_manifesto_gnratr.sh     ← Open Source Manifesto Generator
 ```
 
 | Path | Description |
